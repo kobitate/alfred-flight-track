@@ -24,6 +24,9 @@
   },
   "homepage": "https://github.com/KaiTiggy/alfred-flight-track#readme",
   "dependencies": {
-    "alfy": "^0.8.0"
+    "alfy": "^0.8.0",
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0"
   }
 }
