@@ -1,0 +1,29 @@
+{
+  "name": "alfred-flight-track",
+  "version": "1.0.0",
+  "description": "Alfred workflow to track flights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiTiggy/alfred-flight-track.git"
+  },
+  "keywords": [
+    "alfred",
+    "flights",
+    "flight",
+    "track",
+    "alfred workflow"
+  ],
+  "author": "Kobi Tate",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KaiTiggy/alfred-flight-track/issues"
+  },
+  "homepage": "https://github.com/KaiTiggy/alfred-flight-track#readme",
+  "dependencies": {
+    "alfy": "^0.8.0"
+  }
+}
